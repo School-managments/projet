@@ -1,0 +1,21 @@
+# BACKEND - Spring Boot
+back/target/
+*.log
+
+# FRONTEND
+front/node_modules/
+front/build/
+front/dist/
+
+# ENV
+.env
+application.properties
+application.yml
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
